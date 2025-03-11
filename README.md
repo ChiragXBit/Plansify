@@ -1,4 +1,4 @@
-# Study Planner App
+# Study Planner App : 
 
 ## Overview
 The Study Planner App helps users efficiently schedule study sessions by allowing them to add subjects, set difficulty levels, and allocate time slots. The app uses OpenAI to generate an optimized study schedule based on user-defined time slots and subject difficulties.
